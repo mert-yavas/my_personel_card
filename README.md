@@ -1,12 +1,12 @@
-# Personal Card Generator with Flask
+# Personal Card with Flask
 ## Overview
-Hello, I'm Mert, and today marks Day 56 of my "100 Days of Python" challenge. Welcome to the Personal Card Generator project. In this project, we've developed a Flask web application that generates a personal card with user information.
+Hello, I'm Mert, and today marks Day 56 of my "100 Days of Python" challenge. Welcome to the Personal Card with Flask project.
 
 ## Project Description
 The application allows users to input their name, role, and social media links. It then generates a personalized card displaying this information along with a profile picture.
 
 ## How to Run
-To use the Personal Card Generator application, follow these steps:
+To use the Personal Card with Flask application, follow these steps:
 
 * Ensure Python is installed on your system.
 * Install Flask using pip:
